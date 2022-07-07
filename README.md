@@ -1,7 +1,7 @@
 # Click-bait
 
 ### A case study in digital data analytics. Particularly product analysis, user behaviour and campaign analysis.
-
+![](images/clickbait.jpg)
 ### Campaign analysis is almost everywhere in the data world, especially in marketing, digital, UX and retail industries - and being able to analyse views, clicks and other digital behaviour is a critical part of a data analyst's skillset.
 
 ### Some questions I investigated include:
