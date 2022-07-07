@@ -12,6 +12,11 @@ In this case study - the task is to come up with creative solutions to calculate
 Campaign analysis is almost everywhere in the data world, especially in marketing, digital, UX and retail industries - and being able to analyse views, clicks and other digital behaviour is a critical part of a data analyst's skillset.
 
 <br>
+Some questions I investigated include:
+
+Number of cookies per user on average
+Number of unique visits by all users per month
+
 <br>
 Included below is a single A4 infographic that the Clique bait team can use for their management reporting sessions. It emphasises the most important points from my findings.
 
