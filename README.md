@@ -39,7 +39,8 @@
 ![](images/infographic.jpg)
 
  
-  
-  
-
+### Tools used:
+* PostgreSQL (Data cleaning, exploratory data analysis)
+* Excel (Report creation)
+* MS Word (Infographic)
     
