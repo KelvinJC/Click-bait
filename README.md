@@ -18,4 +18,11 @@ it emphasises the most important points from my findings.
 
 <br>
 <br>
+  
 ![](images/infographic.jpg)
+
+ 
+  
+  
+
+    
