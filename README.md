@@ -33,7 +33,7 @@
 
 
 ## Report 
-### Included below is a single page infographic detailing the important insights from my analysis.
+### Included below is a single page infographic detailing some important insights from my analysis.
 
   
 ![](images/infographic.jpg)
