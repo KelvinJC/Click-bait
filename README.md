@@ -36,7 +36,7 @@
 ### Included below is a single page infographic detailing some important insights from my analysis.
 
   
-![](images/infographic.jpg)
+![](images/infographic_i.jpg)
 
  
 ### Tools used:
