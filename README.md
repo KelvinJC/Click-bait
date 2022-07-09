@@ -8,7 +8,6 @@
 
 ### User behaviour
 * Number of users
-* Number of cookies per user on average
 * Number of unique visits by all users per month
 * How many times was each product viewed?
 * Number of events for each event type?
@@ -33,7 +32,9 @@
 * What metrics can you use to quantify the success or failure of each campaign compared to eachother?
 
 
-### Included below is a single A4 infographic that the Clique bait team can use for their management reporting sessions. It emphasises the most important points from my findings.
+## Report 
+### Included below is a single page infographic that the Clique bait team can use for their management reporting sessions. 
+### It emphasises the most important insights from my analysis.
 
   
 ![](images/infographic.jpg)
